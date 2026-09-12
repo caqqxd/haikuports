@@ -48,7 +48,6 @@ INSTALL()
 	cd build
 	make install
 
-	mkdir -p $(dirname $includeDir) $(dirname $dataDir)
+	mkdir -p $(dirname $includeDir)
 	mv $prefix/include $includeDir
-	mv $prefix/share $dataDir
 }
