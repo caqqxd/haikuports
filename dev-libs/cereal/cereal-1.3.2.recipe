@@ -1,4 +1,4 @@
-SUMMARY="A C++11 library for serialization"
+fSUMMARY="A C++11 library for serialization"
 DESCRIPTION="cereal is a header-only C++11 serialization library. cereal takes\
  arbitrary data types and reversibly turns them into different representations\
  , such as compact binary encodings, XML, or JSON. cereal was designed to be \
@@ -9,7 +9,7 @@ COPYRIGHT="2014, Randolph Voorhies, Shane Grant"
 LICENSE="BSD (3-clause)"
 REVISION="1"
 SOURCE_URI="$HOMEPAGE/archive/v$portVersion.tar.gz"
-CHECKSUM_SHA256="16a7ad9b31ba5880dac55d62b5d6f243c3ebc8d46a351419e56b5e7ea81f85f"
+CHECKSUM_SHA256="16a7ad9b31ba5880dac55d62b5d6f243c3ebc8d46a3514149e56b5e7ea81f85f"
 
 ARCHITECTURES="all !x86_gcc2"
 SECONDARY_ARCHITECTURES="?x86"
