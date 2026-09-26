@@ -9,7 +9,7 @@ COPYRIGHT="2007-2022 The Chicken Team
 LICENSE="BSD (2-clause)"
 REVISION="1"
 SOURCE_URI="http://code.call-cc.org/releases/$portVersion/chicken-$portVersion.tar.gz"
-CHECKSUM_SHA256="3c5d4aa61c1167bf6d9bf9eaf891da7630ba9f5f3c15bf09515a7039bfcdec5f"
+CHECKSUM_SHA256="92835552b1b687ad26737e429b5aba36510bf429f8816ec0f6d336c8cb41f443"
 
 ARCHITECTURES="all !x86_gcc2"
 SECONDARY_ARCHITECTURES="x86"
